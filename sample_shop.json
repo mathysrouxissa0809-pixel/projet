@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "name": "EXEMPLE — ne pas utiliser comme boutique réelle",
+      "category": "Exemple",
+      "price": "Non disponible",
+      "rarity": "Exemple",
+      "image": "",
+      "description": "Fichier de démonstration uniquement."
+    }
+  ]
+}
